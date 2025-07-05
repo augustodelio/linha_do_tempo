@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/02-indice/sem-titulo-1/"}
+{"dg-publish":true,"permalink":"/02-indice/sem-titulo-1/","tags":["gardenEntry"]}
 ---
 
